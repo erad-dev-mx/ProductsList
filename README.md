@@ -1,10 +1,10 @@
 # ProductsList
 
-![ProductsList](assets/main.png)
+![ProductsList](assets/main.svg)
 
 ProductsList is an Android app that showcases items from a store.
 
-![TinyApps](assets/tinyapps.png)
+![TinyApps](assets/tinyapps.svg)
 
 :rocket: Part of __*[TinyApps](https://erad.dev/tinyapps.html)*__ by __*[erad.dev](https://erad.dev/)*__
 
